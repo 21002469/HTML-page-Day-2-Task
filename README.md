@@ -113,6 +113,7 @@ HTML CODE:
 
 
 output:
-<img width="1377" height="840" alt="Screenshot 2026-07-14 163133" src="https://github.com/user-attachments/assets/d298df27-9698-40ff-957f-6c2e6a0d7610" />
+<img width="1337" height="557" alt="Screenshot 2026-07-14 163539" src="https://github.com/user-attachments/assets/ad92e8ea-9c35-4580-84d0-a3f1548e9c13" />
+
 <img width="620" height="632" alt="Screenshot 2026-07-14 163148" src="https://github.com/user-attachments/assets/c565d04c-6c07-4573-95ad-d35fcefe1b66" />
 
